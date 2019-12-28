@@ -1,4 +1,4 @@
-package com.company.level1.모의고사;
+package main.level1.모의고사;
 
 import java.util.*;
 

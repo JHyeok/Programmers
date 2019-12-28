@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b75e3396-d2e1-4913-b1b0-268e4bca9170" name="Default Changelist" comment="" />
+    <list default="true" id="b75e3396-d2e1-4913-b1b0-268e4bca9170" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/level1/모의고사/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/level1/테스트/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/company/level1/모의고사/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/level1/모의고사/Solution.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,13 +21,18 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1VcCYGLSwYsprRaceWDLBpaoSo2" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -64,10 +76,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1032" y="179" key="#Project_Structure" timestamp="1577543153104">
+    <state x="1032" y="179" key="#Project_Structure" timestamp="1577544865825">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1032" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577543153104" />
+    <state x="1032" y="179" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1577544865825" />
     <state x="760" y="162" key="SettingsEditor" timestamp="1577543420869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -76,5 +88,9 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="951" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577543389589" />
+    <state x="952" y="116" width="613" height="807" key="find.popup" timestamp="1577544177153">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="952" y="116" width="613" height="807" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1577544177153" />
   </component>
 </project>
