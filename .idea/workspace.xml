@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b75e3396-d2e1-4913-b1b0-268e4bca9170" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/level1/완주하지못한선수/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/level1/완주하지못한선수/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/level1/서울에서김서방찾기/OtherSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/level1/서울에서김서방찾기/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/level1/서울에서김서방찾기/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -131,10 +132,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="449" y="162" width="1309" height="807" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577553174942" />
-    <state x="951" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1577707323799">
+    <state x="951" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1578128451598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="951" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1577707323799" />
+    <state x="951" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578128451598" />
     <state x="952" y="116" width="613" height="807" key="find.popup" timestamp="1577544177153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
