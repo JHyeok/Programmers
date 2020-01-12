@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b75e3396-d2e1-4913-b1b0-268e4bca9170" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/level1/수박수박수박수박수박수/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/level1/수박수박수박수박수박수/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +35,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -127,14 +125,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1879" height="348" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1577597368241" />
-    <state x="449" y="162" width="1309" height="807" key="SettingsEditor" timestamp="1577553174942">
+    <state x="449" y="162" width="1309" height="807" key="SettingsEditor" timestamp="1578130709899">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="449" y="162" width="1309" height="807" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1577553174942" />
-    <state x="951" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1578128451598">
+    <state x="449" y="162" width="1309" height="807" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1578130709899" />
+    <state x="951" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1578824879670">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="951" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578128451598" />
+    <state x="951" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1578824879670" />
     <state x="952" y="116" width="613" height="807" key="find.popup" timestamp="1577544177153">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
