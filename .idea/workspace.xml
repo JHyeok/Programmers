@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b75e3396-d2e1-4913-b1b0-268e4bca9170" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/level2/탑/OtherSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/level2/탑/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/level2/탑/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/level1/이천십육년/OtherSolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/level1/이천십육년/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/level1/이천십육년/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +33,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/level1/완주하지못한선수" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/level1/자연수_뒤집어_배열로_만들기" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
