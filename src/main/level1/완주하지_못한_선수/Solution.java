@@ -1,4 +1,4 @@
-package main.level1.완주하지못한선수;
+package main.level1.완주하지_못한_선수;
 
 import java.util.*;
 

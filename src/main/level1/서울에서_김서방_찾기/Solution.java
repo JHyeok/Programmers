@@ -1,4 +1,4 @@
-package main.level1.서울에서김서방찾기;
+package main.level1.서울에서_김서방_찾기;
 
 public class Solution {
     public String solution(String[] seoul) {

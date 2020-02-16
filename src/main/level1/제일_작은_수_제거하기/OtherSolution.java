@@ -1,4 +1,4 @@
-package main.level1.제일작은수제거하기;
+package main.level1.제일_작은_수_제거하기;
 
 public class OtherSolution {
     public int[] solution(int[] arr) {

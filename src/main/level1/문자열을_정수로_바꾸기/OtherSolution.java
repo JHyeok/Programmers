@@ -1,4 +1,4 @@
-package main.level1.문자열을정수로바꾸기;
+package main.level1.문자열을_정수로_바꾸기;
 
 class OtherSolution {
     public int getStrToInt(String str) {
