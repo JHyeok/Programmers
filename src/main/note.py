@@ -24,3 +24,10 @@ cd.remove(min(cd))
 print(cd)
 cd.remove(max(cd))
 print(cd)
+
+# python 문자열 거꾸로 출력하기
+
+v = "123asbdsdd"
+print(v[::-1])
+# 출력
+# ddsdbsa321
