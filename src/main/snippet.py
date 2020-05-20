@@ -17,7 +17,7 @@ def change_binary(n: int) -> int:
 
 # 2진수를 10진수로
 def binary_to_decimal(binary_num):
-    dectimal_number = 0
+    decimal_number = 0
 
     # 2진수 숫자를 문자열 string으로 변환
     binary_num_str = str(binary_num)
@@ -25,9 +25,9 @@ def binary_to_decimal(binary_num):
     # 2진수 문자열의 각 자릿값에 2의 n 제곱 형태로 가중치를 계산하여 합산
     # pow 함수는 pow(2, 3)은 2의 3승 = 8 이다.
     for i, digit in enumerate(binary_num_str):
-        dectimal_number += int(digit) * pow(2, len(binary_num_str) - 1 -i)
+        decimal_number += int(digit) * pow(2, len(binary_num_str) - 1 -i)
     
-    return dectimal_number
+    return decimal_number
 
 # 거품 정렬
 # 단순하지만 O(N^2)의 상대적으로 느린 시간 복잡도
